@@ -22,10 +22,17 @@ time, mark, audio, video {
 
 body
 {
-	backgronud-color: #eee;
+	background-color: #eee;
+	font-family: "hooligan-1","hooligan-2";
+	text-align:center;
 }
 
-h1 {
-  font-family: "hooligan-1","hooligan-2";
-  font-size: 80px;
+h1 {  
+  font-size: 160px;
+  line-height: 0.6;
+}
+
+h2 {
+  font-size: 80px;	
+  line-height: 0.8;
 }
